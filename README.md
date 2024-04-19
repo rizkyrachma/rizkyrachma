@@ -40,6 +40,15 @@
 <br>
 </div>
 
+<hr/>
+
+<div align="center">
+<h2>⚡ Stats ⚡</h2>
+  <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyrachma&show_icons=true&locale=en&theme=tokyonight" alt="rizkyrachma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyrachma&&theme=tokyonight" alt="rizkyrachma" /></p>
+</div>
+
 <br/>
 <hr/>
 <div align="center">
@@ -51,7 +60,6 @@
 </div>
 
 <hr/>
-
 <br/>
 
 <div align="center">
