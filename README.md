@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rizkyrachma.rizkyrachma" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=4000&color=B10F0F&center=true&random=false&width=435&lines=Hi+there!+👋;I'm+Rizky+Rachma!;" />
 </h1>
