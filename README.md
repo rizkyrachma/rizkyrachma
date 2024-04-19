@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=4000&color=B10F0F&center=true&random=false&width=435&lines=Hi+there!+👋;I'm+Rizky+Rachma!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A Passionate FullStack Developer from Indonesia 🇮🇩</h3>
 
 <br/>
 
