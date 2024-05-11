@@ -35,7 +35,7 @@
 <p>
 <a href="https://twitter.com/joergennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizky rachma" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rizkyrachmaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizky rachma" height="30" width="40" /></a>
-<a href="www.youtube.com/pupudsama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizky rachma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8JsdHmcOaq6uRFQC7QW7jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizky rachma" height="30" width="40" /></a>
 <a href="https://discord.gg/5GWkNsd34N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rizky rachma" height="30" width="40" /></a>
 </p>
 </div>
