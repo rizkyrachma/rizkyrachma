@@ -5,13 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=4000&color=B10F0F&center=true&random=false&width=435&lines=Hi+there!+👋;I'm+Rizky+Rachma!;" />
 </h1>
 
-<h3 align="center">A Passionate FullStack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Wannabe FullStack Developer from Indonesia 🇮🇩</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Fullstack Web Developer**
+ 🔭 I’m currently in **College**
  
  🌱 I’m currently learning **Most Popular Programming Language In The World**
 
