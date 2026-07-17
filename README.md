@@ -4,20 +4,36 @@
   <img src="https://komarev.com/ghpvc/?username=rizkyrachma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-**Full-Stack Developer | Information Technology Student**
+**Information Technology Student | Network Administration & Web Development**
 
-I build clean, efficient, and user-friendly web and mobile applications. Currently deepening my expertise in modern development workflows, database design, and UI/UX best practices.
+6th-semester IT student at Bina Sarana Informatika University with a foundation in computer networking, IT support, and computer vision. MikroTik Certified Network Associate (MTCNA) holder with hands-on experience in web development using PHP and Laravel.
 
 ---
 
 ## About Me
 
-- 🎓 **Education** — Information Technology Student, Bina Sarana Informatika University
-- 💻 **Core Stack** — JavaScript, Node.js, Python, Java, C
-- 🎨 **Design** — Figma (wireframing, prototyping, UI/UX design)
-- ⚙️ **Tools & Workflow** — Git, GitHub, VS Code
-- 🌱 **Currently Exploring** — Modern frontend frameworks and scalable backend architecture
-- 💬 **Open to Discuss** — Web & mobile development, UI/UX design, software engineering fundamentals
+- 🎓 **Education** — Information Technology Student (6th Semester), Bina Sarana Informatika University
+- 💻 **Programming & Web** — HTML/CSS, JavaScript, PHP, Java, Python, Laravel, MySQL
+- 🌐 **Technical Skills** — Computer Networking, Routing & Switching, IT Support, Troubleshooting, Computer Vision
+- 🎨 **Design & Tools** — Figma, Adobe Photoshop, Adobe Premiere, Canva
+- ⚙️ **Development Tools** — Git, GitHub, VS Code, Netbeans
+- 📄 **Certified** — MikroTik Certified Network Associate (MTCNA), OpenCV Bootcamp (Certificate of Excellence, 100%)
+- 💬 **Open to Discuss** — Web development, network administration, computer vision, and IT support
+
+---
+
+## Certifications
+
+- 🏅 **MikroTik Certified Network Associate (MTCNA)**
+- 🏅 **OpenCV University — OpenCV Bootcamp** (Certificate of Excellence, Grade: 100%)
+- 🏅 **Workshop UJIKOM Basis Data — G2Academy** (Certificate of Completion)
+
+---
+
+## Publications
+
+- Agustiani, S., Haryani, H., Junaidi, A., Putri, R. R., & Emiliana, M. R. (2025). *Comparative Optimization of EfficientNetB3, MobileNetV2, and ResNet50 for Waste Classification*. Jurnal Informatika, 12(2), 131–137. [Read Paper](https://jurnal.bsi.ac.id/index.php/ji/article/view/11888)
+- Firdaus, A. W., Danu Rizkyarto, M., & Rachma Putri, R. (2026). *Perbandingan Linear Regression, K-NN, dan Naive Bayes untuk Prediksi Kategori BMI*. Jurnal Media Informatika, 7(1), 1–6. [Read Paper](https://ejournal.sisfokomtek.org/index.php/jumin/article/view/7842)
 
 ---
 
@@ -46,7 +62,7 @@ I build clean, efficient, and user-friendly web and mobile applications. Current
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,c,bootstrap,git,github,vscode,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,mysql,java,python,figma,ps,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 ---
