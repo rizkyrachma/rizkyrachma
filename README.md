@@ -1,75 +1,64 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyrachma&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyrachma" /> </p>
+# Rizky Rachma Putri
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rizkyrachma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=35&duration=4000&color=B10F0F&center=true&random=false&width=435&lines=Hi+there!+👋;I'm+Rizky+Rachma!;" />
-</h1>
+**Full-Stack Developer | Information Technology Student**
 
-<h3 align="center">Wannabe FullStack Developer from Indonesia 🇮🇩</h3>
+I build clean, efficient, and user-friendly web and mobile applications. Currently deepening my expertise in modern development workflows, database design, and UI/UX best practices.
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently in **College**
- 
- 🌱 I’m currently learning **Most Popular Programming Language In The World**
+## About Me
 
-💬 Ask me about **Web & App Development Or Design**
+- 🎓 **Education** — Information Technology Student, Bina Sarana Informatika University
+- 💻 **Core Stack** — JavaScript, Node.js, Python, Java, C
+- 🎨 **Design** — Figma (wireframing, prototyping, UI/UX design)
+- ⚙️ **Tools & Workflow** — Git, GitHub, VS Code
+- 🌱 **Currently Exploring** — Modern frontend frameworks and scalable backend architecture
+- 💬 **Open to Discuss** — Web & mobile development, UI/UX design, software engineering fundamentals
 
-⚡ Fun fact **I'm Smol**
+---
 
- </div>
+## Connect With Me
 
- <div align="center"> 
+<p align="left">
   <a href="mailto:rizkyrachma292@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://rizkyrachma.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<div align="center"> 
-<h3> Social Media </h3>
-<p>
-<a href="https://twitter.com/joergennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizky rachma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rizkyrachmaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizky rachma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC8JsdHmcOaq6uRFQC7QW7jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizky rachma" height="30" width="40" /></a>
-<a href="https://discord.gg/5GWkNsd34N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rizky rachma" height="30" width="40" /></a>
+  <a href="https://twitter.com/joergennn" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/rizkyrachmaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/5GWkNsd34N" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
-</div>
 
-<hr/>
-<h2 align="center">⚒️ Tech Tools ⚒️</h2>
+---
 
+## Tech Stack
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java" />
-<br>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,c,bootstrap,git,github,vscode,figma" alt="Tech Stack Icons" />
+</p>
 
-<hr/>
+---
 
-<div align="center">
-<h2>⚡ Stats ⚡</h2>
-  <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyrachma&show_icons=true&locale=en&theme=tokyonight" alt="rizkyrachma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyrachma&&theme=tokyonight" alt="rizkyrachma" /></p>
-</div>
+## GitHub Statistics
 
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rizkyrachma/rizkyrachma/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkyrachma&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyrachma&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
+</p>
 
-<hr/>
-<br/>
-
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyrachma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
