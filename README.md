@@ -56,7 +56,7 @@ I build clean, efficient, and user-friendly web and mobile applications. Current
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rizkyrachma&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyrachma&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rizkyrachma&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
 </p>
 
 <p align="left">
